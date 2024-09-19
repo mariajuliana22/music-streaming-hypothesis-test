@@ -1,5 +1,6 @@
 # project_music
-Preferencias musicales de dos ciudades
+Preferencias musicales de dos ciudades 
+Proyecto hecho para TripleTen (Bootcamp online)
 
 ### Descripción del proyecto
 Para este proyecto, probaré una hipótesis relacionada con las preferencias musicales de dos ciudades, Springfield y Shelbyvill. Esto se hará mediante el análisis de datos reales de transmisión de música online para probar la hipótesis y se comparará el comportamiento de los usuarios y las usuarias de las dos ciudades.
