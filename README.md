@@ -19,6 +19,11 @@ This project aims to analyze online music streaming data to test the hypothesis 
 2. Preprocesar los datos limpiándolos. / Preprocess the data by cleaning them.
 3. Probar la hipótesis usando métodos estadísticos y obtener conclusiones. / Test the hypothesis using statistical methods and draw conclusions.
 
+Hipótesis: "La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad". 
+
+Hypothesis: “The activity of male and female users differs according to the day of the week and depending on the city”.
+
+
 ## Herramientas utilizadas / Tools used
 - Python / Python
 - Pandas
