@@ -28,4 +28,4 @@ This project aims to analyze online music streaming data to test the hypothesis 
 
 ## Estructura del repositorio / Repository structure
 - `/music_project_en.csv`: Datos del proyecto. / Project data.
-- `/notebooks`: Cuaderno de análisis y prueba de hipótesis. / Analysis and hypothesis testing notebook.
+- `/musica`: Cuaderno de análisis y prueba de hipótesis. / Analysis and hypothesis testing notebook.
