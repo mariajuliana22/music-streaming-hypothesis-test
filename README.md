@@ -1,20 +1,31 @@
-# project_music
-Preferencias musicales de dos ciudades / Musical Preferences of Two Cities
+# Music Streaming Hypothesis Test
 
-Proyecto hecho para TripleTen (Bootcamp online) - Sprint 3. Python básico / Project completed for TripleTen (Online Bootcamp) - Sprint 3. Basic Python.
-
-### Descripción del proyecto / Project Description
-
-Para este proyecto, probaré una hipótesis relacionada con las preferencias musicales de dos ciudades, Springfield y Shelbyvill. Esto se hará mediante el análisis de datos reales de transmisión de música online para probar la hipótesis y se comparará el comportamiento de los usuarios y las usuarias de las dos ciudades.
-
-Esto implica analizar los datos reales de transmisión de música online para comparar el comportamiento de los usuarios y las usuarias en Springfield y Shelbyville. El proyecto se divide en tres etapas, cada una con objetivos específicos.
-
-Hipótesis: La actividad de los usuarios y las usuarias difiere según el día de la semana y dependiendo de la ciudad.
+Proyecto hecho para TripleTen (Bootcamp online) - Sprint 3. Python básico 
 
 ---
 
-For this project, I will test a hypothesis related to the musical preferences of two cities: Springfield and Shelbyville. This will be done by analyzing real online music streaming data to compare the behavior of users in both cities.
+Project completed for TripleTen (Online Bootcamp) - Sprint 3. Basic Python.
 
-The project involves analyzing streaming music data to examine how user activity varies by day of the week and city. It is divided into three stages, each with specific objectives.
+### Descripción del proyecto / Project Description
 
-Hypothesis: User activity differs based on the day of the week and the city.
+Este proyecto tiene como objetivo analizar los datos de transmisión de música online para probar la hipótesis de que la actividad de los usuarios varía según el día de la semana y la ciudad. Se comparan dos ciudades, Springfield y Shelbyville, en cuanto a las preferencias musicales de los usuarios.
+
+---
+
+This project aims to analyze online music streaming data to test the hypothesis that user activity varies by day of the week and city. Two cities, Springfield and Shelbyville, are compared in terms of user music preferences.
+
+## Objetivos / Objectives
+1. Proporcionar una descripción general de los datos. / Provide a general description of the data.
+2. Preprocesar los datos limpiándolos. / Preprocess the data by cleaning them.
+3. Probar la hipótesis usando métodos estadísticos y obtener conclusiones. / Test the hypothesis using statistical methods and draw conclusions.
+
+## Herramientas utilizadas / Tools used
+- Python / Python
+- Pandas
+- NumPy
+- Matplotlib/Seaborn (para visualización de datos / for data visualization)
+- Jupyter Notebooks
+
+## Estructura del repositorio / Repository structure
+- `/music_project_en.csv`: Datos del proyecto. / Project data.
+- `/notebooks`: Cuaderno de análisis y prueba de hipótesis. / Analysis and hypothesis testing notebook.
