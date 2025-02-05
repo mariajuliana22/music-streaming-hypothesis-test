@@ -27,8 +27,6 @@ Hypothesis: “The activity of male and female users differs according to the da
 ## Herramientas utilizadas / Tools used
 - Python / Python
 - Pandas
-- NumPy
-- Matplotlib/Seaborn (para visualización de datos / for data visualization)
 - Jupyter Notebooks
 
 ## Estructura del repositorio / Repository structure
